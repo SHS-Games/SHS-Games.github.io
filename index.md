@@ -5,7 +5,7 @@
 ## Games
 
 ### Table of Contents
-* [Untitled Ghost Game](#Untitled-ghost-Game)
+* [Untitled Ghost Game](#untitled-ghost-game)
 
 
 some filler text:
