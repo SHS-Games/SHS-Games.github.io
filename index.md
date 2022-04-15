@@ -1,7 +1,7 @@
 # Hi Kenny
 
 I bet you're thinking "wow what? my name on a website? a published one at that even?" (probably david too)
-![](images/pika_wha.png)
+![](images/Pika_wha.png)
 
 Look, I even found a picture of your face from just a second ago^^^
 
@@ -17,7 +17,7 @@ Anyways, just wanted to show off. there's not much to put here but it's pretty n
 * [Untitled Ghost Game](#untitled-ghost-game)
 
 
-some filler text:
+some filler text to show off the bookmark capability:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam malesuada vulputate felis sed efficitur. Nam malesuada varius laoreet. Integer in bibendum enim, eu pharetra ligula. Nunc dignissim enim id posuere consectetur. Nunc nec turpis mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam scelerisque erat eu ultrices blandit.
 
