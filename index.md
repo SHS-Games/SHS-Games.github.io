@@ -1,5 +1,14 @@
 # Hi Kenny
 
+I bet you're thinking "wow what? my name on a website? a published one at that even?" (probably david too)
+![](images/pika_wha.jpg)
+
+Look, I even found a picture of your face from just a second ago^^^
+
+That's right. Be amazed. We now have a webpage and can display all the things. 
+
+Anyways, just wanted to show off. there's not much to put here but it's pretty nifty if I do say so myself.
+
 ## Overview
 
 ## Games
