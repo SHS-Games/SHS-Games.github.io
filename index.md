@@ -1,7 +1,7 @@
 # Hi Kenny
 
 I bet you're thinking "wow what? my name on a website? a published one at that even?" (probably david too)
-![](images/Pika_wha.png)
+![](Images/Pika_wha.png)
 
 Look, I even found a picture of your face from just a second ago^^^
 
